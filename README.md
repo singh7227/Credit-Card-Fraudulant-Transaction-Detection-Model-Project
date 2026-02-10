@@ -73,10 +73,3 @@ The dataset is highly imbalanced, with fraudulent transactions making up less th
 Since the dataset is imbalanced, recall and F1-score were given more importance than accuracy.
 
 ---
-
-## How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/singh7227/Credit-Card-Fraudulent-Transaction-Detection-Model-Project.git
