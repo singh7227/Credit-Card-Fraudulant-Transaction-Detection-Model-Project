@@ -49,7 +49,7 @@ The dataset is highly imbalanced, with fraudulent transactions making up less th
 
 1. Data Cleaning and Exploration  
 2. Checking Class Distribution  
-3. Feature Scaling (StandardScaler)  
+3. Feature Scaling
 4. Train-Test Split  
 5. Model Training  
    - Logistic Regression  
@@ -63,7 +63,7 @@ The dataset is highly imbalanced, with fraudulent transactions making up less th
 
 ---
 
-## Model Performance (Random Forest)
+## Model Performance 
 
 - Accuracy: 99.2%
 - Precision (Fraud Class): 0.91
